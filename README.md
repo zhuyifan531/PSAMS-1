@@ -1,7 +1,7 @@
 
 ## Introduction
 
-This repo holds the source code and scripts for our paper: Pivot Selection Algorithms in Metric Spaces: An Experimental Evaluation,To appear in The VLDB Journal (VLDBJ), 2021.
+This repo holds the source code and scripts for our paper: Pivot Selection Algorithms in Metric Spaces: An Experimental Evaluation,The VLDB Journal (VLDBJ), 2022.
 
 Details can be refferred to  https://github.com/ZJU-DBL/PSAMS
 
